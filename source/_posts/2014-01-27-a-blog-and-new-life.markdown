@@ -13,5 +13,6 @@ I'm from China and currently I'm living in Dallas, TX, USA and I'm enjoying stay
 
 So this is my very first post!  
 
-![image](../images/luoluo.jpg)  
+<img src="{{ root_url }}/public/images/luoluo.jpg" />
+
 A picture of my daughter Rebekah and me taken 3 years ago.
