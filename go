@@ -1,6 +1,6 @@
 #!/bin/sh
 rake generate
 git add .
-git commit -m "`date`"
+git commit -a -m "`date`"
 git push origin source
 rake deploy
